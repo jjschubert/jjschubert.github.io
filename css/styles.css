@@ -501,6 +501,20 @@ mark,
   color: #6c757d;
 }
 
+.subheader{
+  /* font-style: italic; */
+  margin-bottom: 20px;
+}
+
+.subheaderBox{
+  text-align: center;
+}
+
+.abtText {
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
 code {
   font-size: 87.5%;
   color: #e83e8c;
