@@ -510,10 +510,6 @@ mark,
   text-align: center;
 }
 
-/* .abtText {
-  padding-left: 5em;
-  padding-right: 5em;
-} */
 
 code {
   font-size: 87.5%;
@@ -10452,13 +10448,19 @@ header.masthead .masthead-heading {
 
 .abtText{
 display: inline-block;
-width: 60%
+width: 45%
 }
 
 .abtPhoto{
 display: inline-block;
 width: 30%
 }
+
+.abtSpacing {
+display: inline-block;
+width: 10%
+}
+
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
